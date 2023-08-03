@@ -1,0 +1,1 @@
+/opt/1cv8/x86_64/8.3.20.2184/1cv8 designer /fCommander1C/base /LoadExternalDataProcessorOrReportFromFiles Commander1C/src/\!\ 1С\ Коммандер.xml Commander1C/epf/Commander1C
