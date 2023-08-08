@@ -1,6 +1,7 @@
 # Коммандер 1С
-
 Двух панельный менеджер файлов на 1С.
+
+![photo_2023-08-03_18-17-10](https://github.com/nonameformr/Commander1C/assets/11997188/4e2ce63e-ecbc-4e64-b61d-58020f1901ae)
 
 ## Возможности:
 
